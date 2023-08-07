@@ -1,0 +1,6 @@
+.highlight {
+    color: green;
+}
+.another {
+    color: var(--my-variable);
+}

@@ -1,0 +1,8 @@
+.item {
+    color: green;
+}
+.styled-list {
+    .item {
+        color: blue;
+    }
+}

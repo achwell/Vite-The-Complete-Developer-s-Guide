@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "This is a test post",
+      "body": "It wasn't quite yet time to panic. There was still time to salvage the situation. At least that is what she was telling himself. The reality was that it was time to panic and there wasn't time to salvage the situation, but he continued to delude himself into believing there was.",
+      "userId": 25,
+      "tags": [
+        "mystery",
+        "american",
+        "history"
+      ],
+      "reactions": 5
+    },
+    {
+      "id": 2,
+      "title": "This is another test post.",
+      "body": "She was aware that things could go wrong. In fact, she had trained her entire life in anticipation that things would go wrong one day. She had quiet confidence as she started to see that this was the day that all her training would be worthwhile and useful. At this point, she had no idea just how wrong everything would go that day.",
+      "userId": 26,
+      "tags": [
+        "love",
+        "english"
+      ],
+      "reactions": 7
+    }
+  ],
+  "total": 2,
+  "skip": 0,
+  "limit": 10
+}
